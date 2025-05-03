@@ -1,7 +1,7 @@
 <h1 align="left">Hallo 👋</h1>
 
 <p align="left">
-  My name is <strong>Mazen</strong>, and I’m a Senior Computer Engineering student at the German University in Cairo. An enthusiastic engineering student with a strong focus on Data Engineering and Machine Learning (ML). Currently a senior Computer Science and Engineering student at the German University in Cairo, with experience in ML, Data Engineering, and Software Development. Passionate about advancing AI technologies through research and practical applications.
+  My name is <strong>Mazen</strong>, an enthusiastic engineering student with a strong focus on Data Engineering and Machine Learning (ML). Currently a senior Computer Science and Engineering student at the German University in Cairo, with experience in ML, Data Engineering, and Software Development. Passionate about advancing AI technologies through research and practical applications.
 </p>
 
 ## Connect
