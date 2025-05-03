@@ -32,11 +32,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="40" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="40" alt="Pandas" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" height="40" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="40" alt="Matplotlib" />
 
   <!-- NLP & Vector Tools -->
   <img src="https://img.shields.io/badge/HuggingFace-FDEE21?logo=huggingface&logoColor=black" height="40" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Transformers-00A8E1?logo=transformers&logoColor=white" height="40" alt="Transformers" />
   <img src="https://img.shields.io/badge/LangChain-CC3534?logo=langchain&logoColor=white" height="40" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0366D6?logo=graphql&logoColor=white" height="40" alt="LangGraph" />
   <!-- Databases -->
