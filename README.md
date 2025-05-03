@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Transformers-00A8E1?logo=transformers&logoColor=white" height="40" alt="Transformers" />
   <img src="https://img.shields.io/badge/LangChain-CC3534?logo=langchain&logoColor=white" height="40" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0366D6?logo=graphql&logoColor=white" height="40" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Qdrant-000000?logo=qdrant&logoColor=white" height="40" alt="Qdrant" />
-
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Neo4j-0765A3?logo=neo4j&logoColor=white" height="40" alt="Neo4j" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
