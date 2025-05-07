@@ -1,53 +1,262 @@
-<h1 align="left">Hallo 👋</h1>
+<img class="cropimg" src="https://github.com/user-attachments/assets/ccde9c3f-ffcf-480d-ba5c-ecc661cd6b47" alt="MazenS0liman titel banner" style="width: 100%;" width="100%" />
+
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/108749601?s=256&v=4" alt="MazenS0liman" height="32" />
+    <u>
+        About me
+    </u>
+</h1>
+
+ <img align="right" style="width: 46%; display: inline-block; background-color=d633ff" src="https://github-readme-stats.vercel.app/api/top-langs?username=MazenS0liman&show_icons=true&locale=en&layout=compact&" alt="MazenS0liman" />
 
 <p align="left">
-  My name is <strong>Mazen Soliman</strong>, an enthusiastic engineering student with a strong focus on Data Engineering and Machine Learning (ML). Currently a senior Computer Science and Engineering student at the German University in Cairo, with experience in ML, Data Engineering, and Software Development. Passionate about advancing AI technologies through research and practical applications.
+My name is <strong>Mazen Soliman</strong>, an enthusiastic engineering student with a strong focus on Data Engineering and Machine Learning (ML). Currently a senior Computer Science and Engineering student at the German University in Cairo, with experience in ML, Data Engineering, and Software Development. Passionate about advancing AI technologies through research and practical applications.
 </p>
-
-## Connect
-
+<h3 align="left">
+    <u>
+        Connect
+    </u>
+</h3>
 <div align="left">
   <a href="http://www.linkedin.com/in/mazen-s0liman" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:mazzen.m.s0liman@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
 </div>
-
-###
-
-## I Code With
-
-<div align="left">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="40" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="40" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="40" alt="Java" />
-
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="40" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="40" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="40" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" height="40" alt="Apache Spark" />
-
-  <!-- NLP & Vector Tools -->
-  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?logo=huggingface&logoColor=black" height="40" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/LangChain-CC3534?logo=langchain&logoColor=white" height="40" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-0366D6?logo=graphql&logoColor=white" height="40" alt="LangGraph" />
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Neo4j-0765A3?logo=neo4j&logoColor=white" height="40" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" />
-</div>
-
-###
-<h2 align="left">Profile Views</h2>
-
-###
-
+<h3 align="left">
+    <u>
+        Profile Views
+    </u>
+</h3>
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=MazenS0liman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+<hr>
+
+<h1 align="left">
+    <u>
+        Languages
+    </u>
+</h1>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+      alt="Python"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
+      alt="Java"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="JavaScript"
+      width="92" height="92"
+    />
+  </a>
+</p>
+
+<h1 align="left">
+    <u>
+        Web Development
+    </u>
+</h1>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"
+      alt="Node.js"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"
+      alt="Express.js"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"
+      alt="React.js"
+      width="92" height="92"
+    />
+  </a>
+    <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"
+      alt="TypeScript"
+      width="92" height="92"
+    />
+  </a>
+</p>
+
+<h1 align="left">
+    <u>
+        Machine Learning & Gen AI
+    </u>
+</h1>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+      alt="PyTorch"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/f5f78d8b-a0a6-4b0b-a394-9ddd755548d0"
+      alt="Scikit-learn"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"
+      alt="Numpy"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://langchain.com/" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/06b5a785-5b68-4e90-bd4e-60c619d9b942"
+      alt="LangChain"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img
+      src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+      alt="Hugging Face"
+      width="92" height="92"
+    />
+  </a>
+</p>
+
+<h1 align="left">
+    <u>
+        Databases
+    </u>
+</h1>
+<p align="left">
+  <a href="https://neo4j.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neo4j.png"
+      alt="Neo4j"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"
+      alt="MongoDB"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"
+      alt="MSSQL"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="PostgreSQL"
+      width="92" height="92"
+    />
+  </a>
+</p>
+
+<h1 align="left">
+    <u>
+        Technologies
+    </u>
+</h1>
+<p align="left">
+  
+  <a href="https://huggingface.co/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
+      alt="Linux"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"
+      alt="Bash"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png"
+      alt="Nginx"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="Docker"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      alt="Kubernetes"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+      alt="RabbitMQ"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png"
+      alt="Apache Kafka"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"
+      alt="Postman"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"
+      alt="PySpark"
+      width="92" height="92"
+    />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/860dfbd6-d559-4731-a034-c4f5a8074df8"
+      alt="Airflow"
+      width="92" height="92"
+    />
+  </a>
+</p>
+
+<hr>
+
