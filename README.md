@@ -123,9 +123,6 @@
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="64" height="64" />
     </a>
-    <a href="https://kubernetes.io/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
-    </a>
     <a href="https://www.rabbitmq.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="64" height="64" />
     </a>
