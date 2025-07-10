@@ -9,7 +9,7 @@
 <img align="right" style="width: 46%; display: inline-block;vertical-align:middle;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MazenS0liman&show_icons=true&locale=en&layout=compact" alt="MazenS0liman" />
 
 <p align="left">
-  My name is <strong>Mazen Soliman</strong>, an enthusiastic engineering student with a strong focus on Data Engineering and Machine Learning (ML). Currently a senior Computer Science and Engineering student at the German University in Cairo, with experience in ML, Data Engineering, and Software Development. Passionate about advancing AI technologies through research and practical applications.
+  My name is <strong>Mazen Soliman</strong>, an enthusiastic Computer Science engineer with a strong focus on Software Engineering and Machine Learning (ML). A recent Computer Science and Engineering graduate from the German University in Cairo, with experience in ML, Data Engineering, and Software Engineering. Passionate about advancing AI technologies through both research and practical applications.
 </p>
 
 <!-- Connect + Profile Views side by side -->
